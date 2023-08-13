@@ -1,1 +1,10 @@
 # CS-250
+
+This repository contains my projects from CS-250 Software Development Lifecycle class at SNHU. Thoughout this course we worked on a project that involved a pretend company called SNHU travel. We worked on utilizing user stories in order to create an aspect of a travel website. While doing this we learned a great deal about SDLC, specifily Agile method.
+
+•	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+o	When creating a program, it is always important to incorporate user needs and wants in order to have a successful product. If the user doesn’t like the program or prefers a different one due to it having the features that they want, then that would be a product failure. User stories help us understand what users would like in a given program. Each user story contains items that they would like to see implemented, and when you have multiple user stories, we can determine what is a higher priority to the users by the amount of users that state that they would like the same items included. More data is always great, but if you utilize too many user stories, it may make it take longer to analyze.
+•	How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+o	My approach to developing programs is to first start with the client’s wants and needs, then look at the user’s wants and needs. This gives me a base line of what the client/user is expecting. In my future development work I hope to incorporate the Kanban process. I utilize this at my work currently for manufacturing, but I never really thought about how it would be incorporated into software development. I really like how it breaks the project down into smaller manageable segments and in a way makes it less intimidating.
+•	What does it mean to be a good team member in software development?
+o	In order to be a good team member in software development you have to be good at teamwork, have great communication skills, have clear roles and responsibilities, and have common goals. 
